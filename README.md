@@ -83,10 +83,18 @@ The project includes an interactive dashboard with the following sections:
 - Explore different LLMs and verification strategies.
 - Improve error handling and evaluation reliability.
 
-## Repository Contents
+## Repository Structure
 
-- `Chain_Of_Verification.ipynb` – Complete implementation, experiments, evaluation, and interactive dashboard.
-
----
+```text
+LLM_chain-of-verification/
+│
+├── Chain_Of_Verification.ipynb
+├── README.md
+├── requirements.txt
+├── cove_experiment_results.csv
+│
+└── docs/
+    ├── technical_workflow.md
+    └── evaluation_methodology.md
 
 **Developed as a Generative AI project exploring structured verification techniques for more reliable LLM-generated responses.**
