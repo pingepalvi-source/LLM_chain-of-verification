@@ -1,0 +1,84 @@
+id,question,ground_truth,category,direct_answer,draft_answer,verification_questions,verification_answers,verified_answer,direct_result,verified_result,direct_correct,verified_correct,comparison
+1,What is the capital of Australia?,Canberra,Geography,Canberra,Canberra,"1. What is the officially designated capital city of the Commonwealth of Australia?
+2. Which Australian city houses the Parliament House and the primary federal government offices?","1. Canberra
+2. Canberra",Canberra,CORRECT,CORRECT,True,True,Correct in Both
+2,Who discovered penicillin?,Alexander Fleming,Science,Alexander Fleming,Alexander Fleming,"1. Who is credited with the discovery of penicillin in 1928?
+2. What scientist discovered the antibacterial properties of the *Penicillium notatum* mold?","1. Alexander Fleming is credited with the discovery of penicillin in 1928.
+2. Alexander Fleming also discovered the antibacterial properties of the *Penicillium notatum* mold.",Alexander Fleming,CORRECT,CORRECT,True,True,Correct in Both
+3,What is the largest planet in our Solar System?,Jupiter,Science,Jupiter,Jupiter,"1. What is the largest planet in our solar system by mass and volume?
+2. Which planet in our solar system has a diameter of approximately 139,820 kilometers?","1. **Jupiter** is the largest planet in our solar system by both mass and volume.
+2. **Jupiter** has a diameter of approximately 139,820 kilometers.",Jupiter,CORRECT,CORRECT,True,True,Correct in Both
+4,Who wrote Hamlet?,William Shakespeare,Literature,William Shakespeare,William Shakespeare,"1. Who is the author of the play Hamlet?
+2. What famous plays were written by William Shakespeare?","1. **Who is the author of the play Hamlet?**
+The author of the play *Hamlet* is William Shakespeare.
+
+2. **What famous plays were written by William Shakespeare?**
+Some of the most famous plays written by William Shakespeare include *Romeo and Juliet*, *Macbeth*, *Othello*, *King Lear*, *A Midsummer Night's Dream*, *Julius Caesar*, and *The Tempest*.",William Shakespeare,CORRECT,CORRECT,True,True,Correct in Both
+5,In which year did World War II end?,1945,History,1945,1945,"1. In which year was the unconditional surrender of Germany signed, marking the end of World War II in Europe?
+2. In which year did the formal surrender of Japan take place, marking the official end of World War II globally?","1. 1945
+2. 1945",1945,CORRECT,CORRECT,True,True,Correct in Both
+6,What is the chemical symbol for gold?,Au,Science,Au,Au,"1. What is the chemical symbol corresponding to the element gold on the periodic table?
+2. What element does the chemical symbol ""Au"" represent?","1. Au
+2. Gold",Au,CORRECT,CORRECT,True,True,Correct in Both
+7,Which is the largest ocean on Earth?,Pacific Ocean,Geography,Pacific Ocean,The Pacific Ocean.,"1. What is the surface area and volume of the Pacific Ocean compared to the other oceans on Earth?
+2. Is the Pacific Ocean officially recognized as the largest ocean by geographic and scientific standards?","**1. What is the surface area and volume of the Pacific Ocean compared to the other oceans on Earth?**
+
+* **Surface Area:** The Pacific Ocean has a surface area of approximately 165.25 million square kilometers (about 63.8 million square miles). It is the largest ocean on Earth, covering roughly 30% of the Earth's surface and accounting for about 46% of the planet's water surface area. It is larger than all of Earth's landmasses combined.
+* **Volume:** The volume of the Pacific Ocean is estimated to be about 714 million cubic kilometers (roughly 171 million cubic miles). This represents more than 50% of the total free water volume of the World Ocean, making it by far the deepest and most voluminous ocean basin on Earth. 
+
+Compared to the other four oceans (Atlantic, Indian, Southern, and Arctic), the Pacific ranks first in both surface area and volume, significantly outpacing the second-largest ocean (the Atlantic) in both categories.
+
+***
+
+**2. Is the Pacific Ocean officially recognized as the largest ocean by geographic and scientific standards?**
+
+Yes. The Pacific Ocean is universally and officially recognized as the largest ocean on Earth by all major geographic, cartographic, and scientific organizations (such as the International Hydrographic Organization, the U.S. National Oceanic and Atmospheric Administration, and global mapping standards).",The Pacific Ocean.,CORRECT,CORRECT,True,True,Correct in Both
+8,Who painted the Mona Lisa?,Leonardo da Vinci,Art,Leonardo da Vinci,Leonardo da Vinci,"1. Who is the artist credited with creating the Mona Lisa?
+2. What famous artwork is Leonardo da Vinci most widely known for painting?","1. Leonardo da Vinci
+2. Mona Lisa",Leonardo da Vinci,CORRECT,CORRECT,True,True,Correct in Both
+9,What is the smallest prime number?,2,Mathematics,2,2,"1. What is the definition of a prime number?
+2. Are there any prime numbers smaller than 2?","1. **Definition of a prime number:**
+A prime number is a whole number greater than 1 whose only divisors (or factors) are 1 and itself. In other words, it cannot be formed by multiplying two smaller positive integers.
+
+2. **Are there any prime numbers smaller than 2?**
+No, there are no prime numbers smaller than 2. The smallest prime number is 2.",2,CORRECT,CORRECT,True,True,Correct in Both
+10,Which planet is known as the Red Planet?,Mars,Science,Mars,Mars,"1. What is the color of the planet Mars?
+2. Which planet in our solar system is commonly referred to as the Red Planet?","1. Red
+2. Mars",Mars,CORRECT,CORRECT,True,True,Correct in Both
+11,Who was the first President of the United States?,George Washington,History,George Washington,George Washington,"1. Who served as the first President of the United States under the Constitution?
+2. In what year did George Washington take the oath of office as President of the United States?","1. George Washington served as the first President of the United States under the Constitution.
+
+2. George Washington took the oath of office as President of the United States in 1789.",George Washington,CORRECT,CORRECT,True,True,Correct in Both
+12,What is the capital of Japan?,Tokyo,Geography,Tokyo,Tokyo,"1. What is the currently recognized capital city of Japan?
+2. Which city serves as the seat of the Japanese government and the location of the Imperial Palace?","1. Tokyo
+2. Tokyo",Tokyo,CORRECT,CORRECT,True,True,Correct in Both
+13,What is the hardest natural substance?,Diamond,Science,Diamond,Diamond,"1. What is the hardest known natural material on the Mohs scale of mineral hardness?
+2. Does diamond hold the highest rating for natural hardness, and what is its rating?","1. Diamond is the hardest known natural material on the Mohs scale of mineral hardness.
+
+2. Yes, diamond holds the highest rating for natural hardness, with a rating of 10.",Diamond,CORRECT,CORRECT,True,True,Correct in Both
+14,Who developed the theory of relativity?,Albert Einstein,Science,Albert Einstein,Albert Einstein,"1. Who is credited with developing the theory of relativity?
+2. Did Albert Einstein formulate the theory of relativity?","1. Albert Einstein is credited with developing the theory of relativity.
+
+2. Yes, Albert Einstein formulated the theory of relativity.",Albert Einstein,CORRECT,CORRECT,True,True,Correct in Both
+15,Which continent is Egypt located in?,Africa,Geography,Africa,Egypt is located in Africa (with the Sinai Peninsula extending into Asia).,"1. Is the mainland of Egypt located in Africa?
+2. Does the Sinai Peninsula of Egypt extend into Asia?","1. Yes, the mainland of Egypt is located in Africa.
+2. Yes, the Sinai Peninsula of Egypt extends into Asia.",Egypt is located in Africa (with the Sinai Peninsula extending into Asia).,CORRECT,CORRECT,True,True,Correct in Both
+16,What is the currency of Japan?,Yen,General Knowledge,Japanese yen,The currency of Japan is the Japanese yen.,"1. What is the official currency used in Japan?
+2. What is the name of the currency represented by the symbol ¥?","1. The official currency used in Japan is the Japanese yen.
+2. The name of the currency represented by the symbol ¥ is the yen (or Japanese yen).",The currency of Japan is the Japanese yen.,CORRECT,CORRECT,True,True,Correct in Both
+17,Who wrote Romeo and Juliet?,William Shakespeare,Literature,William Shakespeare,William Shakespeare,"1. Who is the author of the play *Romeo and Juliet*?
+2. What are the most famous literary works written by William Shakespeare?","1. The author of the play *Romeo and Juliet* is **William Shakespeare**.
+
+2. Some of William Shakespeare's most famous literary works include:
+   * **Plays:** *Hamlet*, *Macbeth*, *Othello*, *King Lear*, *A Midsummer Night's Dream*, *The Tempest*, and *Julius Caesar*.
+   * **Poetry:** His collection of *Sonnets* (such as *Sonnet 18*: ""Shall I compare thee to a summer's day?"").",William Shakespeare,CORRECT,CORRECT,True,True,Correct in Both
+18,What is the boiling point of water at sea level in Celsius?,100,Science,100°C,100 °C,"1. What is the standard boiling point of pure water in degrees Celsius at standard atmospheric pressure?
+2. At what temperature does water boil at sea level?","1. 100 °C
+2. 100 °C",100 °C,CORRECT,CORRECT,True,True,Correct in Both
+19,Which organ pumps blood throughout the human body?,Heart,Biology,Heart,The heart.,"1. What is the primary function of the human heart?
+2. Which human organ is responsible for pumping blood through the circulatory system?","1. The primary function of the human heart is to pump blood throughout the body, delivering oxygen and nutrients to tissues and organs while removing carbon dioxide and other waste products.
+
+2. The human heart is responsible for pumping blood through the circulatory system.",The heart.,CORRECT,CORRECT,True,True,Correct in Both
+20,What is the capital of France?,Paris,Geography,Paris,Paris,"1. What is the capital city of France?
+2. In which country is Paris located?","1. Paris
+2. France",Paris,CORRECT,CORRECT,True,True,Correct in Both
